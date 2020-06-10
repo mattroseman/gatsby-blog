@@ -15,6 +15,7 @@ export default function BlogHome({ data, location }) {
       <Bio />
 
       <Link to='/blog'>Blog</Link>
+      <a href='/resume.pdf'>Resume</a>
     </Layout>
   )
 }
